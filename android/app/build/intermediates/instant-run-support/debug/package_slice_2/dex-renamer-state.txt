@@ -1,0 +1,4 @@
+#Tue Aug 15 16:49:11 EEST 2017
+base.0=/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

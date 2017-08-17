@@ -1,0 +1,7 @@
+#Tue Aug 15 16:49:13 EEST 2017
+base.0=/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_660a38acd420832356563e702bd671f7827006ca
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_206bcf54a0a8cef962b4a460f920451e335bb124/classes.dex
+base.1=/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_206bcf54a0a8cef962b4a460f920451e335bb124
+file.0=/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_660a38acd420832356563e702bd671f7827006ca/classes.dex

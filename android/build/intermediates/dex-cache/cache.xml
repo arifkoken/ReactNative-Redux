@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/1ff213bc489e8bf60e64d7dc70912da6b270d055/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3991b3644acf2aba2c24af52042028259997271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/c679647de00df90c077121bffdd54e6e4cbda7f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd57a992e4b72c5870f3e6041644dc52fc6cb64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_206bcf54a0a8cef962b4a460f920451e335bb124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b8cda2c83e6eb589ebdb16fb2ac1656a720c687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_a6e68cde086d72211e483c2a171f83f2564bf7a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/5d59640b05e4ab00cd6341ab43e8c57d28e869f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff92def1d739511301bb72b93c98d3727dd0d432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_29fae1b5d6b360a79731df05a2a25afbfaa1d6fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/28b464e31ca2df93839e3f8a029d744e3a8debf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fde2fabea3d12c400a056f3acd6308f8a9d0aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_ece3dc84fc1d98ea7c82116613cbab14430b5b5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_1d47da3de6312f37cceb892ede6bc12cba278962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/c4ed290d9dd74686e546a1841e7b2ae6e3895dba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73e0ed2b2f13d3ce2fe56fce229b33572710ddcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/e442ea6e5b5ee2d952320c26d94fcb99f8c31ab6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f5755970104c698c39d8bb45d610e248e2bba3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_f2edebd20e996bc799b2190ef251f9ca58fe3057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/82911f370c3bb393910520db88ea7944972ceff6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7eb9eb5e62b69d6b85f5698fd23bbb1738401a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/4cf1317ce9363bc9279102e163ac9607d11e6649/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db982bea346153ea8fa942a0831023a3b696ddfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_2b97b650e71e32bff08c726cfdd5d7012d687bc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_65a4949fc322171244786a42524c99af3b24d2e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/c4ed290d9dd74686e546a1841e7b2ae6e3895dba/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_7b513e499ccc53c2374f5f04ec39ccafd0e553e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/649d7d347dff2e825818e5c5df81ca8854315cf6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a89da1bb0d9e98a0c97e5e60e8b4e5d6b96fe6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/d87db8ee1807df11c7a4f094c6ff98c29f63959c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_066ed3e00c723845147f8e060fd1a2c417565fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.android/build-cache/d87db8ee1807df11c7a4f094c6ff98c29f63959c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_0517290ce9bec1d67350372725d1ba2338348436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_18b4c0c9d26c2c6d60de4e64b01e7f835a3af631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0697d70ae4818cd6582f5c05896183769375b0fc">
+        <dex dex="/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_660a38acd420832356563e702bd671f7827006ca/classes.dex" />
+    </item>
+
+</items>

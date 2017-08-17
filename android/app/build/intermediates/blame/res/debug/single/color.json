@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/arifkoken/Documents/RN-VideoEgitim/ornekproje-react-native-master/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/arifkoken/.android/build-cache/7edff7919de7155dbe73ae258b7efe3b5feb7b9d/output/res/color/abc_search_url_text.xml"
+    }
+]
